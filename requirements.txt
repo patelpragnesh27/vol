@@ -1,6 +1,6 @@
 pywin32==306
 numpy==1.22.0 
-Python 3.12.5
+Python 3.11.0
 
 asgiref==3.8.1
 beautifulsoup4==4.12.3
